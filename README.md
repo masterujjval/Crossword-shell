@@ -15,5 +15,18 @@ The Crossword Solver CLI is a command-line interface (CLI) program developed in 
 
 ***Offline Use:*** Enjoy the convenience of solving crossword puzzles without the need for an internet connection, as the program operates entirely offline.
 
+## Installation
+
+1. Clone the repository in your local machine.
+2. ```chmod +x *``` provide the necessary permissions to execute the file.
+3. ```./words.sh``` Enter the command to execute the file.
+
+
+
+
+
+
+
+
 
 
