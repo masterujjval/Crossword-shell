@@ -7,3 +7,13 @@ The Crossword Solver CLI is a command-line interface (CLI) program developed in 
 
 ***Customizable Parameters:***  Fine-tune your search by specifying criteria such as word length, starting or ending letters, and more, allowing for precise and efficient puzzle-solving.
 
+
+***Extensive Word Database:*** The program leverages a comprehensive word database to ensure a vast and diverse set of potential solutions.
+
+
+***Fast and Efficient:*** Designed for speed and efficiency, the Crossword Solver CLI provides near-instantaneous results, streamlining the puzzle-solving process.
+
+***Offline Use:*** Enjoy the convenience of solving crossword puzzles without the need for an internet connection, as the program operates entirely offline.
+
+
+
